@@ -1,4 +1,5 @@
 Boghian-Mantle Composite (BMC-1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19024425.svg)](https://doi.org/10.5281/zenodo.19024425)
 
 Next-Generation Bi-Coaxial Active Cryogenic Shield & Energy Harvesting System
 
